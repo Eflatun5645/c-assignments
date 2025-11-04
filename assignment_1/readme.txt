@@ -29,13 +29,3 @@ Teslimat: Kaynak kodu Ibrahim Hocanin olusturacagi github repozitorisine ilgili 
 Son Gun: 13.11.2025
 **/
 
-#include <stdio.h>
-
-int main (){
-    printf ("This is the main File for Artuklu University Comp Eng. Programming Lecture Class 1 \n");
-    /* Odevlerini yukleyen ogrenciler bu dosyada guzel formatli sekilde adini, soyadini yazdiracak.
-        Satirlarinizi eklerken baskasinin kodunu bozmamaniz gerekmektedir.
-    */
-
-    return 0;
-}
